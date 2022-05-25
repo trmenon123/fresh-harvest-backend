@@ -1,0 +1,12 @@
+{
+    "database": "mongodb+srv://FHDatabaseUser:FHDatabasePassword@freshharvestcluster.ws69n.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "server": {
+        "port": 8000
+    },
+    "crypt": {
+        "rounds": 13
+    },
+    "jwt": {
+        "secret": "bdiw5479bnfjeifh985793nflenf8967859060"
+    }
+}
